@@ -89,6 +89,7 @@ input:focus {
   border-radius: 5px;
   margin: 10px;
   padding: 10px;
+  cursor: pointer;
 }
 
 .historial {
@@ -97,6 +98,24 @@ input:focus {
   display: flex;
   flex-direction: column;
   height: 100%;
+}
+
+.historial p {
+  border: solid 0.5px #ffffff80;
+  background: transparent;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.historial p:hover {
+  border: solid 0.5px #ffffff80;
+  background: #fff;
+  color: #223;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
 }
 
 nav p {

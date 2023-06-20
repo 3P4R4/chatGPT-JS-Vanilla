@@ -1,4 +1,4 @@
-const API = "Aqui va la clave API";
+const API = "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";
 const btnEnviar = document.querySelector("#enviar");
 const respuestaGPT = document.querySelector("#output");
 const entradaInput = document.querySelector("#entradainput");

@@ -1,4 +1,4 @@
-const API = "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";
+const API = "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";
 const btnEnviar = document.querySelector("#enviar");
 const respuestaGPT = document.querySelector("#output");
 const entradaInput = document.querySelector("#entradainput");
